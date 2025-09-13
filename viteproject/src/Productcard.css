@@ -1,0 +1,24 @@
+
+.price{
+    font-weight: 100;
+    font-size: medium;
+    font-style: normal;
+    color: blue;
+}
+.container{
+    border-radius: 200;
+    border:2px solid black;
+    margin: 20px;
+
+}
+.isStock{
+    font-weight: 100;
+    font-size: medium;
+    color: red;
+
+}
+.notIs{
+    font-weight: 100;
+    font-size: medium;
+    color:green;
+}

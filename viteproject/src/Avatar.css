@@ -1,0 +1,38 @@
+.name{
+    font-size: x-large;
+    font-style: normal;
+    font-weight: 200;
+    display: block;
+    text-transform: uppercase;
+    color:red;
+}
+.rollNo{
+font-size: x-large;
+font-style: normal;
+font-weight: 200;
+display:block;
+color: black;
+}
+.course{
+   font-size: x-large; 
+   font-weight: 200;
+   font-style: normal;
+   display: block;
+   text-transform: uppercase;
+   color: black;
+}
+.bloodGroup{
+    font-size: x-large;
+    font-weight: 200;
+    font-style: normal;
+    display:block;
+    text-transform:uppercase;
+    color: black;
+}
+.dob{
+    font-size: x-large;
+    font-weight: 200;
+    font-style: normal;
+    color: black;
+}
+
